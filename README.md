@@ -5,7 +5,7 @@ I denne vejledning vil vi udforske, hvordan man effektivt kan håndtere CPR-numr
 ## 📚 Indholdsfortegnelse
 - [Beskrivelse](#beskrivelse)
 - [Funktioner](#funktioner)
-- [🚀 Sådan Bruger Du Programmet](#-sådan-bruger-du-programmet)
+- [Sådan Bruger Du Programmet](#-sådan-bruger-du-programmet)
 
 
 ## ✍️ Beskrivelse
