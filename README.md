@@ -3,8 +3,8 @@
 # 🎉 Afsluttende Opgave - CPR Nummer
 
 ## 📚 Indholdsfortegnelse
-- [Beskrivelse](#beskrivelse)
-- [Funktioner](#funktioner)
+- [Beskrivelse](#-beskrivelse)
+- [Funktioner](#-funktioner)
 - [Sådan Bruger Du Programmet](#-sådan-bruger-du-programmet)
 
 
